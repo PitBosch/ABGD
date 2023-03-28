@@ -1,244 +1,244 @@
-COMUNE,id
-Adrara San Martino,1
-Adrara San Rocco,1
-Albano Sant'Alessandro,1
-Albino,1
-Algua,1
-Almè,1
-Almenno San Bartolomeo,1
-Almenno San Salvatore,1
-Alzano Lombardo,1
-Ambivere,1
-Antegnate,1
-Arcene,1
-Ardesio,1
-Arzago d'Adda,1
-Averara,1
-Aviatico,1
-Azzano San Paolo,1
-Azzone,1
-Bagnatica,1
-Barbata,1
-Bariano,1
-Barzana,1
-Bedulita,1
-Berbenno,1
-Bergamo,1
-Berzo San Fermo,1
-Bianzano,1
-Blello,1
-Bolgare,1
-Boltiere,1
-Bonate Sopra,1
-Bonate Sotto,1
-Borgo di Terzo,1
-Bossico,1
-Bottanuco,1
-Bracca,1
-Branzi,1
-Brembate,1
-Brembate di Sopra,1
-Brignano Gera d'Adda,1
-Brumano,1
-Brusaporto,1
-Calcinate,1
-Calcio,1
-Calusco d'Adda,1
-Calvenzano,1
-Camerata Cornello,1
-Canonica d'Adda,1
-Capizzone,1
-Capriate San Gervasio,1
-Caprino Bergamasco,1
-Caravaggio,1
-Carobbio degli Angeli,1
-Carona,1
-Carvico,1
-Casazza,1
-Casirate d'Adda,1
-Casnigo,1
-Cassiglio,1
-Castel Rozzone,1
-Castelli Calepio,1
-Castione della Presolana,1
-Castro,1
-Cavernago,1
-Cazzano Sant'Andrea,1
-Cenate Sopra,1
-Cenate Sotto,1
-Cene,1
-Cerete,1
-Chignolo d'Isola,1
-Chiuduno,1
-Cisano Bergamasco,1
-Ciserano,1
-Cividate al Piano,1
-Clusone,1
-Colere,1
-Cologno al Serio,1
-Colzate,1
-Comun Nuovo,1
-Corna Imagna,1
-Cornalba,1
-Cortenuova,1
-Costa di Mezzate,1
-Costa Serina,1
-Costa Valle Imagna,1
-Costa Volpino,1
-Covo,1
-Credaro,1
-Curno,1
-Cusio,1
-Dalmine,1
-Dossena,1
-Endine Gaiano,1
-Entratico,1
-Fara Gera d'Adda,1
-Fara Olivana con Sola,1
-Filago,1
-Fino del Monte,1
-Fiorano al Serio,1
-Fontanella,1
-Fonteno,1
-Foppolo,1
-Foresto Sparso,1
-Fornovo San Giovanni,1
-Fuipiano Valle Imagna,1
-Gandellino,1
-Gandino,1
-Gandosso,1
-Gaverina Terme,1
-Gazzaniga,1
-Ghisalba,1
-Gorlago,1
-Gorle,1
-Gorno,1
-Grassobbio,1
-Gromo,1
-Grone,1
-Grumello del Monte,1
-Isola di Fondra,1
-Isso,1
-Lallio,1
-Leffe,1
-Lenna,1
-Levate,1
-Locatello,1
-Lovere,1
-Lurano,1
-Luzzana,1
-Madone,1
-Mapello,1
-Martinengo,1
-Medolago,1
-Mezzoldo,1
-Misano di Gera d'Adda,1
-Moio de' Calvi,1
-Monasterolo del Castello,1
-Montello,1
-Morengo,1
-Mornico al Serio,1
-Mozzanica,1
-Mozzo,1
-Nembro,1
-Olmo al Brembo,1
-Oltre il Colle,1
-Oltressenda Alta,1
-Oneta,1
-Onore,1
-Orio al Serio,1
-Ornica,1
-Osio Sopra,1
-Osio Sotto,1
-Pagazzano,1
-Paladina,1
-Palazzago,1
-Palosco,1
-Parre,1
-Parzanica,1
-Pedrengo,1
-Peia,1
-Pianico,1
-Piario,1
-Piazza Brembana,1
-Piazzatorre,1
-Piazzolo,1
-Pognano,1
-Ponte Nossa,1
-Ponte San Pietro,1
-Ponteranica,1
-Pontida,1
-Pontirolo Nuovo,1
-Pradalunga,1
-Predore,1
-Premolo,1
-Presezzo,1
-Pumenengo,1
-Ranica,1
-Ranzanico,1
-Riva di Solto,1
-Rogno,1
-Romano di Lombardia,1
-Roncobello,1
-Roncola,1
-Rota d'Imagna,1
-Rovetta,1
-San Giovanni Bianco,1
-San Paolo d'Argon,1
-San Pellegrino Terme,1
-Santa Brigida,1
-Sant'Omobono Terme,1
-Sarnico,1
-Scanzorosciate,1
-Schilpario,1
-Sedrina,1
-Selvino,1
-Seriate,1
-Serina,1
-Solto Collina,1
-Solza,1
-Songavazzo,1
-Sorisole,1
-Sotto il Monte Giovanni XXIII,1
-Sovere,1
-Spinone al Lago,1
-Spirano,1
-Stezzano,1
-Strozza,1
-Suisio,1
-Taleggio,1
-Tavernola Bergamasca,1
-Telgate,1
-Terno d'Isola,1
-Torre Boldone,1
-Torre de' Busi,1
-Torre de' Roveri,1
-Torre Pallavicina,1
-Trescore Balneario,1
-Treviglio,1
-Treviolo,1
-Ubiale Clanezzo,1
-Urgnano,1
-Val Brembilla,1
-Valbondione,1
-Valbrembo,1
-Valgoglio,1
-Valleve,1
-Valnegra,1
-Valtorta,1
-Vedeseta,1
-Verdellino,1
-Verdello,1
-Vertova,1
-Viadanica,1
-Vigano San Martino,1
-Vigolo,1
-Villa d'Adda,1
-Villa d'Almè,1
-Villa di Serio,1
-Villa d'Ogna,1
-Villongo,1
-Vilminore di Scalve,1
-Zandobbio,1
-Zanica,1
-Zogno,1
+ID,COMUNE
+0,AdraraSanMartino
+1,AdraraSanRocco
+2,AlbanoSant'Alessandro
+3,Albino
+4,Algua
+5,Almè
+6,AlmennoSanBartolomeo
+7,AlmennoSanSalvatore
+8,AlzanoLombardo
+9,Ambivere
+10,Antegnate
+11,Arcene
+12,Ardesio
+13,Arzagod'Adda
+14,Averara
+15,Aviatico
+16,AzzanoSanPaolo
+17,Azzone
+18,Bagnatica
+19,Barbata
+20,Bariano
+21,Barzana
+22,Bedulita
+23,Berbenno
+24,Bergamo
+25,BerzoSanFermo
+26,Bianzano
+27,Blello
+28,Bolgare
+29,Boltiere
+30,BonateSopra
+31,BonateSotto
+32,BorgodiTerzo
+33,Bossico
+34,Bottanuco
+35,Bracca
+36,Branzi
+37,Brembate
+38,BrembateDiSopra
+39,BrignanoGerad'Adda
+40,Brumano
+41,Brusaporto
+42,Calcinate
+43,Calcio
+44,Caluscod'Adda
+45,Calvenzano
+46,CamerataCornello
+47,Canonicad'Adda
+48,Capizzone
+49,CapriateSanGervasio
+50,CaprinoBergamasco
+51,Caravaggio
+52,CarobbioDegliAngeli
+53,Carona
+54,Carvico
+55,Casazza
+56,Casirated'Adda
+57,Casnigo
+58,Cassiglio
+59,CastelRozzone
+60,CastelliCalepio
+61,CastioneDellaPresolana
+62,Castro
+63,Cavernago
+64,CazzanoSant'Andrea
+65,CenateSopra
+66,CenateSotto
+67,Cene
+68,Cerete
+69,Chignolod'Isola
+70,Chiuduno
+71,CisanoBergamasco
+72,Ciserano
+73,CividateAlPiano
+74,Clusone
+75,Colere
+76,ColognoAlSerio
+77,Colzate
+78,ComunNuovo
+79,CornaImagna
+80,Cornalba
+81,Cortenuoa
+82,CostadiMezzate
+83,CostaDiSerina
+84,CostaValleImagna
+85,CostaVolpino
+86,Covo
+87,Credaro
+88,Curno
+89,Cusio
+90,Dalmine
+91,Dossena
+92,EndineGaiano
+93,Entratico
+94,FaraGerad'Adda
+95,FaraOlivanaConSola
+96,Filago
+97,FinoDelMonte
+98,FioranoAlSerio
+99,Fontanella
+100,Fonteno
+101,Foppolo
+102,ForestoSparso
+103,FornovoSanGiovanni
+104,FuipianoValleImagna
+105,Gandellino
+106,Gandino
+107,Gandosso
+108,GaverinaTerme
+109,Gazzaniga
+110,Ghisalba
+111,Gorlago
+112,Gorle
+113,Gorno
+114,Grassobbio
+115,Gromo
+116,Grone
+117,GrumelloDelMonte
+118,IsolaDiFondra
+119,Isso
+120,Lallio
+121,Leffe
+122,Lenna
+123,Levate
+124,Locatello
+125,Lovere
+126,Lurano
+127,Luzzana
+128,Madone
+129,Mapello
+130,Martinengo
+131,Medolago
+132,Mezzoldo
+133,MisanodiGerad'Adda
+134,MoioDe'Calvi
+135,MonasteroloDelCastello
+136,Montello
+137,Morengo
+138,MornicoAlSerio
+139,Mozzanica
+140,Mozzo
+141,Nembro
+142,OlmoAlBrembo
+143,OltreIlColle
+144,OltressendaAlta
+145,Oneta
+146,Onore
+147,OrioAlSerio
+148,Ornica
+149,OsioSopra
+150,OsioSotto
+151,Pagazzano
+152,Paladina
+153,Palazzago
+154,Palosco
+155,Parre
+156,Parzanica
+157,Pedrengo
+158,Peia
+159,Pianico
+160,Piario
+161,PiazzaBrembana
+162,Piazzatorre
+163,Piazzolo
+164,Pognano
+165,PonteNossa
+166,PonteSanPietro
+167,Ponteranica
+168,Pontida
+169,PontiroloNuovo
+170,Pradalunga
+171,Predore
+172,Premolo
+173,Presezzo
+174,Pumenengo
+175,Ranica
+176,Ranzanico
+177,RivaDiSolto
+178,Rogno
+179,RomanoDiLombardia
+180,Roncobello
+181,Roncola
+182,Rotad'Imagna
+183,Rovetta
+184,SanGiovanniBianco
+185,SanPaolod'Argon
+186,SanPellegrinoTerme
+187,SantaBrigida
+188,Sant'OmobonoImagna
+189,Sarnico
+190,Scanzorosciate
+191,Schilpario
+192,Sedrina
+193,Selvino
+194,Seriate
+195,Serina
+196,SoltoCollina
+197,Solza
+198,Songavazzo
+199,Sorisole
+200,SottoIlMonteGiovanniXxiii
+201,Sovere
+202,SpinonealLago
+203,Spirano
+204,Stezzano
+205,Strozza
+206,Suisio
+207,Taleggio
+208,TavernolaBergamasca
+209,Telgate
+210,Ternod'Isola
+211,TorreBoldone
+212,Torrede'Busi
+213,Torrede'Roveri
+214,TorrePallavicina
+215,TrescoreBalneario
+216,Treviglio
+217,Treviolo
+218,UbialeClanezzo
+219,Urgnano
+220,Brembilla
+221,Valbondione
+222,Valbrembo
+223,Valgoglio
+224,Valleve
+225,Valnegra
+226,Valtorta
+227,Vedeseta
+228,Verdellino
+229,Verdello
+230,Vertova
+231,Viadanica
+232,ViganoSanMartino
+233,Vigolo
+234,Villad'Adda
+235,Villad'Almè
+236,VillaDiSerio
+237,Villad'Ogna
+238,Villongo
+239,VilminoreDiScalve
+240,Zandobbio
+241,Zanica
+242,Zogno
