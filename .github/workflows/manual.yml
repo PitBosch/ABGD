@@ -9,13 +9,13 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner.
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
             python-version: 3.9 #install the python needed
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run
-        run:
+        run: |
           python run.py
           git config user.name github-actions
           git config user.email github-actions@github.com
