@@ -11,3 +11,7 @@ https://pitbosch.github.io/ABGD/pages/ciabatta.html
 https://pitbosch.github.io/ABGD/pages/grembiule.html
 ## Orologio
 https://pitbosch.github.io/ABGD/pages/orologio.html
+## Cotechino Grigliato
+https://pitbosch.github.io/ABGD/pages/cotechino%20grigliato.html
+## Maiale
+https://pitbosch.github.io/ABGD/pages/maiale.html
