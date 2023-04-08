@@ -15,3 +15,5 @@ https://pitbosch.github.io/ABGD/pages/orologio.html
 https://pitbosch.github.io/ABGD/pages/cotechino%20grigliato.html
 ## Maiale
 https://pitbosch.github.io/ABGD/pages/maiale.html
+## Tasca
+https://pitbosch.github.io/ABGD/pages/tasca.html
