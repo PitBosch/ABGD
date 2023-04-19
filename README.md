@@ -17,3 +17,7 @@ https://pitbosch.github.io/ABGD/pages/cotechino%20grigliato.html
 https://pitbosch.github.io/ABGD/pages/maiale.html
 ## Tasca
 https://pitbosch.github.io/ABGD/pages/tasca.html
+## Coperchio
+https://pitbosch.github.io/ABGD/pages/coperchio.html
+## Fiammifero
+https://pitbosch.github.io/ABGD/pages/fiammifero.html
