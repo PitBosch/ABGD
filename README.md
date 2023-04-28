@@ -22,6 +22,6 @@ https://pitbosch.github.io/ABGD/pages/tasca.html
 ## Coperchio
 https://pitbosch.github.io/ABGD/pages/coperchio.html
 ## Fiammifero
-https://pitbosch.github.io/ABGD/pages/fiammifero.html
+https://pitbosch.github.io/ABGD/pages/Fiammifero.html
 ## Imbuto
-https://pitbosch.github.io/ABGD/pages/imbuto.html
+https://pitbosch.github.io/ABGD/pages/Imbuto.html
