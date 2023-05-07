@@ -10,6 +10,9 @@ statistics = "*"
 "plotly.express" = "*"
 scipy = "*"
 python-levenshtein = "*"
+scikit-learn = "*"
+numpy = "*"
+nbformat = ">=4.2.0"
 
 [dev-packages]
 ipykernel = "*"
