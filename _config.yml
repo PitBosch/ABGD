@@ -1,7 +1,4 @@
 title: Save The Bergamasco
 description: ABG prova a salvare il bergamasco
-google_analytics:
-remote_theme: pages-themes/cayman@v0.2.0
+theme: "PaperMod"
 baseurl: /pages
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
