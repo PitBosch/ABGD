@@ -39,6 +39,7 @@ jobs:
       - name: Run
         run:
           python run.py
+          python runPianetti.py
   # Build job
   build:
     runs-on: ubuntu-latest
